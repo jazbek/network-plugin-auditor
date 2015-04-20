@@ -3,8 +3,8 @@ Contributors: ksemel
 Tags: network, multisite, plugin management, theme management, admin
 Donate Link: http://bonsaibudget.com/donate/
 Requires at least: 3.2.1
-Tested up to: 3.9.1
-Stable tag: 1.9
+Tested up to: 4.2
+Stable tag: 1.9.1
 
 For multisite/network installations only.  Adds columns to your network admin to show which sites are using each plugin and theme.
 
@@ -21,10 +21,14 @@ This plugin adds columns to your Network Admin on the Sites, Themes and Plugins 
 
 == Changelog ==
 
+= 1.9.1 =
+
+Updated WordPress compatibility versions
+
 = 1.9 =
 
-Added blog status to plugin listing
-Adjusted code for better i18n
+- Added blog status to plugin listing
+- Adjusted code for better i18n
 - Brazilian Portuguese translation now available, courtesy of Gabriel Reguly
 
 = 1.8.1 =
